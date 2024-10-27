@@ -19,7 +19,8 @@ Before you begin, ensure you have installed:
 
 ## Clone the repository
    ```bash
-   git clone https://github.com/szzd7223/realtime-comments-system.git
+   git clone https://github.com/szzd7223/realtime-comments-system
+   
    cd realtime-comments-system
    ```
 
