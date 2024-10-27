@@ -16,11 +16,12 @@ Before you begin, ensure you have installed:
 - Node.js (v14 or higher)
 - MySQL (v5.7 or higher)
 - npm (usually comes with Node.js)
+- git
 
 ## Clone the repository
    ```bash
    git clone https://github.com/szzd7223/realtime-comments-system
-   
+
    cd realtime-comments-system
    ```
 
