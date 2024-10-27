@@ -81,8 +81,7 @@ node server.js
 cd frontend
 
 # Install dependencies
-npm install
-npm install @mui/material @mui/icons-material @emotion/react @emotion/styled axios socket.io-client --legacy-peer-deps
+npm install --legacy-peer-deps
 
 # Start development server
 npm run dev
